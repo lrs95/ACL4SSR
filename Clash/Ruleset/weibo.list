@@ -1,5 +1,4 @@
 # 微博
-# issue#5 报告发表和评论操作会暴露IP，建议不要使用手机客户端，无法确定是否存在其他IP或域名，已扩充到DOMAIN-SUFFIX
 DOMAIN-SUFFIX,api.weibo.cn
 DOMAIN-SUFFIX,api.weibo.com
 DOMAIN-SUFFIX,weibo.com
